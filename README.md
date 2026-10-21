@@ -3,11 +3,16 @@ projeto simples focado na automação de tarefas diarias do Microsoft edge
 
 ## Instalação
 
-```git clone https://github.com/joao06182008-code/Mrewards-search-daily.git ```
+```
+git clone https://github.com/joao06182008-code/Mrewards-search-daily.git
+
+```
 
 # BAIXAR DEPENDENCIAS COM O PIP
 
-```pip install pyautogui opencv-python pillow```
+```
+pip install pyautogui opencv-python pillow
+```
 
 ## DEPENDENCIAS
 
