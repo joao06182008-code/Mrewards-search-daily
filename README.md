@@ -16,7 +16,7 @@ pip install pyautogui opencv-python pillow
 
 ## DEPENDENCIAS
 
-Python (3.10)
-pyautogui
-opencv-python
-pillow
+- Python (3.10)
+- pyautogui
+- opencv-python
+- pillow
