@@ -5,7 +5,6 @@ projeto simples focado na automação de tarefas diarias do Microsoft edge
 
 ```
 git clone https://github.com/joao06182008-code/Mrewards-search-daily.git
-
 ```
 
 # BAIXAR DEPENDENCIAS COM O PIP
