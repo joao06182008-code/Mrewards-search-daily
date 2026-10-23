@@ -4,10 +4,11 @@ import time
  
 pag.FAILSAFE = True  # mover o mouse para o canto superior esquerdo aborta o script
  
-# ---------- CONFIGURAsAO ----------               
-PAUSA_PESQUISA = (13, 18)         # pausa entre pesquisas, em segundos (min, max)
+# ---------- CONFIGURAsAO ----------  #
+TESTE = True             
+PAUSA_PESQUISA = (1, 2) if TESTE == True else (13, 18)        # pausa entre pesquisas, em segundos (min, max)
 QTD_PESQUISAS = 10                # quantas pesquisas fazer por rodada (se quiser aumentar se for gold/prata)
-ARQUIVO_CARD = 'common.png'     # recorte que se repete nos 3 cards pendentes
+ARQUIVO_CARD = 'commone.png'     # recorte que se repete nos 3 cards pendentes
 CONFIANCA = 0.8                   # aumenta pra 0.9 se o script clicar errado
 ROLAGENS = 1                      # quantos "pagedown" ate os cards aparecerem
  
